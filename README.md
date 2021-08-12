@@ -25,7 +25,7 @@ Todo.
 
 # Data Quality Improvement
 
-Mainly needs to focus on removal of undefined data. A given field should either be of the defined type (e.g string for name) or null. No third category of data should exist. 
+Mainly needs to focus on removal of undefined data. A given key should either be of the defined type (e.g string for name) or null. No third category of data should exist. 
 
 ![](img/compass-analysis.png)
 ![](img/compass-analysis-2.png)
