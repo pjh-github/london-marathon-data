@@ -4,7 +4,9 @@ A repo for centralizing the London Marathon datasets as a json.
 
 # Why 
 
-A substantial amount of duplicate work has been done on the scraping and analysis of the London Marathon data. This repo will hopefully reduce that going forwards. Some examples of the cellular work that has been completed can be seen below. 
+A substantial amount of duplicate and difficult-to-reuse work has been done on the scraping and analysis of the London Marathon data. This repo will hopefully reduce that going forwards. 
+
+Some examples of cellular work that has been completed can be seen below. 
 
 * https://github.com/Ben-Jamin-Griff/LondonMarathonAnalysis
 * https://github.com/eastc5/London_marathon_results_scraper
